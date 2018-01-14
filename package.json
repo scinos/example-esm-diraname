@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@std/esm": "^0.19.2",
+    "express": "^4.16.2"
+  }
+}
